@@ -7,7 +7,7 @@ This SQL-based project explores a mock Swiggy restaurant dataset, analyzing rest
 > ✅ **Note**: The dataset used is a *demo* and not extracted from Swiggy directly.
 
 ---
-###📁 Dataset Link: [Download from Google Drive](https://drive.google.com/file/d/19qpIadbJC4SNROoeDXFbUlfdFPGP7R6U/view?usp=sharing)
+### 📁 Dataset Link: [Download from Google Drive](https://drive.google.com/file/d/19qpIadbJC4SNROoeDXFbUlfdFPGP7R6U/view?usp=sharing)
 
 ### 📁 Dataset Fields
 
